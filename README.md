@@ -2,6 +2,8 @@
 
 Course website for AS.050.375/675 and EN.601.485/685 at Johns Hopkins University.
 
+https://tiezheng11.github.io/ProbabilisticModelsOfVisualCognition2026FA/
+
 ## Preview locally
 
 From this directory, run:
